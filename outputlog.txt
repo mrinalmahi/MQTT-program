@@ -1,0 +1,78 @@
+Connected to MQTT Broker!
+ Topic:login , Message:7028742
+Received 505492d8-de64-4873-bb97-efd200f45075 from 7028742/UUID topic
+Received 505492d8-de64-4873-bb97-efd200f45075 from 505492d8-de64-4873-bb97-efd200f45075 topic
+Received 505492d8-de64-4873-bb97-efd200f45075 from 505492d8-de64-4873-bb97-efd200f45075 topic
+Received 505492d8-de64-4873-bb97-efd200f45075 from 505492d8-de64-4873-bb97-efd200f45075 topic
+Received 505492d8-de64-4873-bb97-efd200f45075 from 505492d8-de64-4873-bb97-efd200f45075 topic
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD3 , Message:Dog
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD5 , Message:Boy
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD3 , Message:Dog
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD5 , Message:Boy
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD3 , Message:Dog
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD5 , Message:Boy
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD3 , Message:Dog
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD5 , Message:Boy
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD3 , Message:Dog
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD5 , Message:Boy
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD3 , Message:Dog
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD5 , Message:Boy
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD3 , Message:Dog
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD5 , Message:Boy
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD3 , Message:Dog
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD5 , Message:Boy
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD3 , Message:Dog
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD5 , Message:Boy
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD3 , Message:Dog
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD5 , Message:Boy
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD3 , Message:Dog
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD5 , Message:Boy
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD3 , Message:Dog
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD5 , Message:Boy
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD3 , Message:Dog
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD5 , Message:Boy
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD3 , Message:Dog
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD5 , Message:Boy
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD3 , Message:Dog
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD5 , Message:Boy
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD3 , Message:Dog
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD5 , Message:Boy
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD3 , Message:Dog
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD5 , Message:Boy
+Received 505492d8-de64-4873-bb97-efd200f45075 from 505492d8-de64-4873-bb97-efd200f45075 topic
+ Topic:505492d8-de64-4873-bb97-efd200f45075/CMD6 , Message:Girl
+
+ Disconnecting from MQTT Broker
